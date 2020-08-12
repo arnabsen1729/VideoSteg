@@ -36,7 +36,7 @@ After the encryption we will have a CSV file which will have all the positions o
 
 
 ### Pros:
-1. Large Amount of Information can be stored and shared because Video's have large number of frames. To give an idea, a 5min video has 300 frames. And if the video resolution is 480p (854x480) and is running on 30fps then it has 3689280000 pixels. If you use all the 3 channels you have 11067840000 bytes(11.06784 Gb ) of information. 
+1. Large Amount of Information can be stored and shared because Video's have large number of frames. To give an idea, a 5min video has 300 seconds. And if the video resolution is 480p (854x480) and is running on 30fps then it has 3689280000 pixels. If you use all the 3 channels you have 11067840000 bytes(11.06784 Gb ) of information. 
 2. All you need to transfer is the index values and you can choose any video online. 
 3. To decode the secret one needs to have both the video as well as the dictionary file. 
 
