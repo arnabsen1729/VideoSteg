@@ -42,7 +42,7 @@ After the encryption we will have a CSV file which will have all the positions o
 
 ### Cons:
 1. The size of the dictionary.csv is proportional to the length of the encoded has of the secret data. 
-2. In any normal video there is usually not much distinction between different frames. The pixel data remains the same almost. As the result there is not much entrophy or randomness. 
+2. In any normal video there is usually not much distinction between different frames. The pixel data remains the same almost. As the result there is not much entropy or randomness. 
 
 
 This is just a concept, not at all a practically useful too. Please feel free to contribute. 
