@@ -14,7 +14,7 @@ or manually install it.
 
 ### How to use
 
-<a href="https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb?autoplay=1"><img src="https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb.png"/></a>
+[![asciicast](https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb.png)](https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb?autoplay=1)
 
 ### Theory
 
