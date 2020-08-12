@@ -14,8 +14,7 @@ or manually install it.
 
 ### How to use
 
-![Use](https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb)
-
+<a href="https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb?autoplay=1"><img src="https://asciinema.org/a/KE2Ix2pUzej8iBEqceDPSEUBb.png"/></a>
 
 ### Theory
 
