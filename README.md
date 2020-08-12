@@ -45,4 +45,4 @@ After the encryption we will have a CSV file which will have all the positions o
 2. In any normal video there is usually not much distinction between different frames. The pixel data remains the same almost.
 
 
-This is just a concept, not at all a practically useful too. 
+This is just a concept, not at all a practically useful too. Please feel free to contribute. 
